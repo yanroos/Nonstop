@@ -1,0 +1,15 @@
+.sivu {
+  width: 50%;
+}
+.asiaa {
+  width: 20%;
+height: 450px;
+float: right;
+background-color: #8592ED;
+}
+
+.artikkeli {
+  width: 80%;
+  height: 100px;
+  background-color: #B5C0EB;
+}
